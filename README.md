@@ -46,29 +46,29 @@ Monday: 11-12 R104, Thursday: 9-10 R104 and Friday: 10-11 R104
 
 |   | Topic | Problems |
 |---|-------|----------|
-| 1. | L & C Parameters | [Problems](./Problem_Sets/ps_1.pdf) |
-| 2. | Performance of transmission lines and per unit calculation | [Problems](./Problem_Sets/ps_2.pdf) |
-| 3. | Network Matrices | [Problems](./Problem_Sets/ps_3.pdf) |
-| 4. | Power Flow Analysis | [Problems](./Problem_Sets/ps_4.pdf) |
-| 5. | Fault Analysis | [Problems](./Problem_Sets/ps_6.pdf) |
-| 6. | Economic Dispatch | [Problems](./Problem_Sets/ps_5.pdf) |
-| 7. | Power System Stability | [Problems](./Problem_Sets/ps_7.pdf) |
+| 1. | L & C Parameters | [Problems](./Lecture_Notes/Problem_Sets/ps_1.pdf) |
+| 2. | Performance of transmission lines and per unit calculation | [Problems](./Lecture_Notes/Problem_Sets/ps_2.pdf) |
+| 3. | Network Matrices | [Problems](./Lecture_Notes/Problem_Sets/ps_3.pdf) |
+| 4. | Power Flow Analysis | [Problems](./Lecture_Notes/Problem_Sets/ps_4.pdf) |
+| 5. | Fault Analysis | [Problems](./Lecture_Notes/Problem_Sets/ps_6.pdf) |
+| 6. | Economic Dispatch | [Problems](./Lecture_Notes/Problem_Sets/ps_5.pdf) |
+| 7. | Power System Stability | [Problems](./Lecture_Notes/Problem_Sets/ps_7.pdf) |
 
 **Exams:**
 
 |   |   |
 |---|---|
-| [Quiz I](./Exams/q1.pdf) | [Solution](./Exams/q1_soln.pdf) |
-| [Mid Sem](./Exams/mid_sem.pdf) | [Solution](./Exams/mid_sem_soln.pdf) |
-| [Quiz II](./Exams/q2.pdf) | [Solution](./Exams/q2_soln.pdf) |
-| [End Sem](./Exams/end_sem.pdf) | [Solution](./Exams/end_sem_soln.pdf) |
+| [Quiz I](./Lecture_Notes/Exams/q1.pdf) | [Solution](./Lecture_Notes/Exams/q1_soln.pdf) |
+| [Mid Sem](./Lecture_Notes/Exams/mid_sem.pdf) | [Solution](./Lecture_Notes/Exams/mid_sem_soln.pdf) |
+| [Quiz II](./Lecture_Notes/Exams/q2.pdf) | [Solution](./Lecture_Notes/Exams/q2_soln.pdf) |
+| [End Sem](./Lecture_Notes/Exams/end_sem.pdf) | [Solution](./Lecture_Notes/Exams/end_sem_soln.pdf) |
 
 **Past Exams:**
 
 | Year | Quiz I | Solution | Mid Sem | Solution | Quiz II | Solution | Quiz III | Solution | End Sem | Solution |
 |------|--------|----------|---------|----------|---------|----------|----------|----------|----------|
-| 2017 | [Quiz I](./Past_Exams/2017/q1.pdf) | [Solution](./Past_Exams/2017/q1_soln.pdf) | [Mid Sem](./Past_Exams/2017/mid_sem.pdf) | [Solution](./Past_Exams/2017/mid_sem_soln.pdf) | [Quiz II](./Past_Exams/2017/q2.pdf) | [Solution](./Past_Exams/2017/q2_soln.pdf) | N/A | N/A | [End Sem](./Past_Exams/2017/end_sem.pdf) | [Solution](./Past_Exams/2017/end_sem_soln.pdf) |
-| 2018 | [Quiz I](./Past_Exams/2018/q1.pdf) | [Solution](./Past_Exams/2018/q1_soln.pdf) | [Mid Sem](./Past_Exams/2018/mid_sem.pdf) | [Solution](./Past_Exams/2018/mid_sem_soln.pdf) | [Quiz II](./Past_Exams/2018/q2.pdf) | [Solution](./Past_Exams/2018/q2_soln.pdf) | N/A | N/A | [End Sem](./Past_Exams/2018/end_sem.pdf) | [Solution](./Past_Exams/2018/end_sem_soln.pdf) |
-| 2019 | [Quiz I](./Past_Exams/2019/q1.pdf) | [Solution](./Past_Exams/2019/q1_soln.pdf) | [Mid Sem](./Past_Exams/2019/mid_sem.pdf) | [Solution](./Past_Exams/2019/mid_sem_soln.pdf) | [Quiz II](./Past_Exams/2019/q2.pdf) | [Solution](./Past_Exams/2019/q2_soln.pdf) | N/A | N/A | [End Sem](./Past_Exams/2019/end_sem.pdf) | [Solution](./Past_Exams/2019/end_sem_soln.pdf) |
-| 2020 | [Quiz I](./Past_Exams/2020/q1.pdf) | [Solution](./Past_Exams/2020/q1_soln.pdf) | [Mid Sem](./Past_Exams/2020/mid_sem.pdf) | [Solution](./Past_Exams/2020/mid_sem_soln.pdf) | [Quiz II](./Past_Exams/2020/q2.pdf) | [Solution](./Past_Exams/2020/q2_soln.pdf) | [Quiz III](./Past_Exams/2020/q3.pdf) | [Solution](./Past_Exams/2020/q3_soln.pdf) | [End Sem](./Past_Exams/2020/end_sem.pdf) | [Solution](./Past_Exams/2020/end_sem_soln.pdf) |
-| 2021 | [Quiz I](./Past_Exams/2021/q1.pdf) | [Solution](./Past_Exams/2021/q1_soln.pdf) | [Mid Sem](./Past_Exams/2021/mid_sem.pdf) | [Solution](./Past_Exams/2021/mid_sem_soln.pdf) | [Quiz II](./Past_Exams/2021/q2.pdf) | [Solution](./Past_Exams/2021/q2_soln.pdf) | [Quiz III](./Past_Exams/2021/q3.pdf) | [Solution](./Past_Exams/2021/q3_soln.pdf) | [End Sem](./Past_Exams/2021/end_sem.pdf) | [Solution](./Past_Exams/2021/end_sem_soln.pdf) |
+| 2017 | [Quiz I](./Lecture_Notes/Past_Exams/2017/q1.pdf) | [Solution](./Lecture_Notes/Past_Exams/2017/q1_soln.pdf) | [Mid Sem](./Lecture_Notes/Past_Exams/2017/mid_sem.pdf) | [Solution](./Lecture_Notes/Past_Exams/2017/mid_sem_soln.pdf) | [Quiz II](./Lecture_Notes/Past_Exams/2017/q2.pdf) | [Solution](./Lecture_Notes/Past_Exams/2017/q2_soln.pdf) | N/A | N/A | [End Sem](./Lecture_Notes/Past_Exams/2017/end_sem.pdf) | [Solution](./Lecture_Notes/Past_Exams/2017/end_sem_soln.pdf) |
+| 2018 | [Quiz I](./Lecture_Notes/Past_Exams/2018/q1.pdf) | [Solution](./Lecture_Notes/Past_Exams/2018/q1_soln.pdf) | [Mid Sem](./Lecture_Notes/Past_Exams/2018/mid_sem.pdf) | [Solution](./Lecture_Notes/Past_Exams/2018/mid_sem_soln.pdf) | [Quiz II](./Lecture_Notes/Past_Exams/2018/q2.pdf) | [Solution](./Lecture_Notes/Past_Exams/2018/q2_soln.pdf) | N/A | N/A | [End Sem](./Lecture_Notes/Past_Exams/2018/end_sem.pdf) | [Solution](./Lecture_Notes/Past_Exams/2018/end_sem_soln.pdf) |
+| 2019 | [Quiz I](./Lecture_Notes/Past_Exams/2019/q1.pdf) | [Solution](./Lecture_Notes/Past_Exams/2019/q1_soln.pdf) | [Mid Sem](./Lecture_Notes/Past_Exams/2019/mid_sem.pdf) | [Solution](./Lecture_Notes/Past_Exams/2019/mid_sem_soln.pdf) | [Quiz II](./Lecture_Notes/Past_Exams/2019/q2.pdf) | [Solution](./Lecture_Notes/Past_Exams/2019/q2_soln.pdf) | N/A | N/A | [End Sem](./Lecture_Notes/Past_Exams/2019/end_sem.pdf) | [Solution](./Lecture_Notes/Past_Exams/2019/end_sem_soln.pdf) |
+| 2020 | [Quiz I](./Lecture_Notes/Past_Exams/2020/q1.pdf) | [Solution](./Lecture_Notes/Past_Exams/2020/q1_soln.pdf) | [Mid Sem](./Lecture_Notes/Past_Exams/2020/mid_sem.pdf) | [Solution](./Lecture_Notes/Past_Exams/2020/mid_sem_soln.pdf) | [Quiz II](./Lecture_Notes/Past_Exams/2020/q2.pdf) | [Solution](./Lecture_Notes/Past_Exams/2020/q2_soln.pdf) | [Quiz III](./Lecture_Notes/Past_Exams/2020/q3.pdf) | [Solution](./Lecture_Notes/Past_Exams/2020/q3_soln.pdf) | [End Sem](./Lecture_Notes/Past_Exams/2020/end_sem.pdf) | [Solution](./Lecture_Notes/Past_Exams/2020/end_sem_soln.pdf) |
+| 2021 | [Quiz I](./Lecture_Notes/Past_Exams/2021/q1.pdf) | [Solution](./Lecture_Notes/Past_Exams/2021/q1_soln.pdf) | [Mid Sem](./Lecture_Notes/Past_Exams/2021/mid_sem.pdf) | [Solution](./Lecture_Notes/Past_Exams/2021/mid_sem_soln.pdf) | [Quiz II](./Lecture_Notes/Past_Exams/2021/q2.pdf) | [Solution](./Lecture_Notes/Past_Exams/2021/q2_soln.pdf) | [Quiz III](./Lecture_Notes/Past_Exams/2021/q3.pdf) | [Solution](./Lecture_Notes/Past_Exams/2021/q3_soln.pdf) | [End Sem](./Lecture_Notes/Past_Exams/2021/end_sem.pdf) | [Solution](./Lecture_Notes/Past_Exams/2021/end_sem_soln.pdf) |
