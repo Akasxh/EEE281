@@ -8,6 +8,11 @@
 **Lectures:**  
 Monday: 11-12 R104, Thursday: 9-10 R104 and Friday: 10-11 R104
 
+**Useful Links:** 
+1. Power System Analysis: [NPTEL (Video)](http://nptel.ac.in/courses/108105067/)
+2. Power System Analysis: [NPTEL (Web)](http://nptel.ac.in/courses/108104051/)
+
+
 **Syllabus:**
 - Architecture of a power system, Line parameter calculation
 - Performance analysis of an AC transmission line
